@@ -1,0 +1,16 @@
+{
+  "name": "shopping-cart-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "yarn add babel-cli babel-preset-env babel-preset-stage-3 cors express nodemon",
+  "author": "Danilo Viacava <daniloviacava@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.2"
+  }
+}
